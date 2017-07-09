@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import cPickle as pickle
+import os
 import os.path
 
 def init():
