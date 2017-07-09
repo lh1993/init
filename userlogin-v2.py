@@ -2,7 +2,6 @@
 
 import shelve
 
-
 def newuser():
     db = shelve.open('userinfo.dat', writeback=True)
 
